@@ -1,9 +1,9 @@
 ## This is Rimol Chakma
 ## Welcome to my GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rimolchakma/hello-w3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a new flatform i made .If you want to see my page click here (https://github.com/rimolchakma/hello-w3/edit/master/README.md).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you 
 
 ### Markdown
 
