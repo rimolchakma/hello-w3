@@ -1,7 +1,7 @@
 ## This is Rimol Chakma
 ## Welcome to my GitHub Pages
 
-This is a new flatform i made .If you want to see my page click here (https://github.com/rimolchakma/hello-w3/edit/master/README.md).
+This is a new flatform i made .If you want to see my page[ click here ](https://github.com/rimolchakma/hello-w3/edit/master/README.md).
 
 Whenever you 
 
